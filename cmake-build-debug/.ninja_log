@@ -1,0 +1,15 @@
+# ninja log v6
+8	3582	1741590873920382652	CMakeFiles/SocketService.dir/server/WebSocketSession.cpp.o	4243bf029bee8827
+9	2118	1741590873920926444	CMakeFiles/SocketService.dir/redisHandler/RedisConsumer.cpp.o	954e3e49f85623b8
+8	1729	1741590873919972402	CMakeFiles/SocketService.dir/main.cpp.o	859a16480ebe012a
+8	2485	1741590873920235360	CMakeFiles/SocketService.dir/server/WebSocketServer.cpp.o	1306dc7791d52753
+8	1734	1741590873920509694	CMakeFiles/SocketService.dir/utils/GlobalMaps.cpp.o	34456d3c68e43267
+3582	3681	1741590877494355936	SocketService	92db63623d4934f2
+1	8	1741590873616985574	clean	ad90e366ad70d77b
+9	21	1741591391974763716	clean	ad90e366ad70d77b
+7	2148	1741591392278300837	CMakeFiles/SocketService.dir/main.cpp.o	859a16480ebe012a
+7	2163	1741591392278825588	CMakeFiles/SocketService.dir/utils/GlobalMaps.cpp.o	34456d3c68e43267
+8	2533	1741591392278938630	CMakeFiles/SocketService.dir/redisHandler/RedisConsumer.cpp.o	954e3e49f85623b8
+7	2999	1741591392278560254	CMakeFiles/SocketService.dir/server/WebSocketServer.cpp.o	1306dc7791d52753
+7	4173	1741591392278703421	CMakeFiles/SocketService.dir/server/WebSocketSession.cpp.o	4243bf029bee8827
+4174	4219	1741591396444908353	SocketService	92db63623d4934f2
