@@ -1,0 +1,7 @@
+# Ignore CMake and Make build files
+build/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+CMakeLists.txt.user
